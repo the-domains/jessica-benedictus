@@ -1,10 +1,9 @@
 ---
-datePublished: '2016-08-24T20:31:59.662Z'
+datePublished: '2016-08-25T07:15:47.947Z'
 sourcePath: >-
   _posts/2016-04-16-the-design-schools-ultimate-guide-to-designing-with-backgro.md
 inFeed: true
-isBasedOnUrl: 'https://designschool.canva.com/blog/background-design/'
-hasPage: false
+hasPage: true
 keywords:
   - background
   - image
@@ -34,7 +33,7 @@ author:
   - name: Poppie Pack
     url: 'https://designschool.canva.com/blog/author/poppie/'
     avatar: {}
-dateModified: '2016-08-24T20:31:59.099Z'
+dateModified: '2016-08-25T07:15:47.525Z'
 title: >-
   The Design School's Ultimate Guide to Designing With Backgrounds [With
   Ready-to-Use Templates]
@@ -53,6 +52,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: the-design-schools-ultimate-guide-to-designing-with-backgro/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
